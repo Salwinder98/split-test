@@ -41,6 +41,84 @@ var json = {
             },
             {
                 type: "radiogroup",
+                name: "libertyordeath",
+                title: "American Indians taught European settlers how to grow",
+                choicesOrder: "random",
+                choices: [
+                    "Rice", "Sugar", "Tea", "Corn"
+                ],
+                correctAnswer: "Corn"
+
+
+
+            },
+            {
+                type: "radiogroup",
+                name: "libertyordeath",
+                title: "What is the purpose of the Bill of Rights?",
+                choicesOrder: "random",
+                choices: [
+                    "To say how much Americans should pay in taxes", "To protect freedoms like freedom of speech", "To describe the jobs of the President and congress", "To make washingon,DC,the capital of the United States"
+                ],
+                correctAnswer: "To protect freedoms like freedom of speech"
+
+
+
+            },
+            {
+                type: "radiogroup",
+                name: "libertyordeath",
+                title: "In 1492,when Christonpher Columbus first landed in the Americans,he taught he was in",
+                choicesOrder: "random",
+                choices: [
+                    "Spain", "The East Indies", "The Hawaiian Islands", "Italy"
+                ],
+                correctAnswer: "The East Indies"
+
+
+
+            },
+            {
+                type: "radiogroup",
+                name: "libertyordeath",
+                title: "The first permanent English settlement in North American was",
+                choicesOrder: "random",
+                choices: [
+                    "St.Augustine", "Santa Fe", "Jamestown", "New Amsterdan"
+                ],
+                correctAnswer: "Jamestown"
+
+
+
+            },
+            {
+                type: "radiogroup",
+                name: "libertyordeath",
+                title: "Near the end of the second World War,the United States military  dropped atomic on cities in",
+                choicesOrder: "random",
+                choices: [
+                    "China", "Germany", "Japan", "The Soviet Union"
+                ],
+                correctAnswer: "Japan"
+
+
+
+            },
+            {
+                type: "radiogroup",
+                name: "libertyordeath",
+                title: "At the time Columbus arrived in the Americans,most of the area that is now called Mexicon was controlled by people called the",
+                choicesOrder: "random",
+                choices: [
+                    "Apache", "Aztecs", "Ironquols", "Inuit"
+                ],
+                correctAnswer: "Azetecs"
+
+
+
+            },
+            {
+                type: "radiogroup",
                 name: "magnacarta",
                 title: "What is the Magna Carta?",
                 choicesOrder: "random",
