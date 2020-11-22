@@ -28,6 +28,19 @@ var json = {
             },
             {
                 type: "radiogroup",
+                name: "libertyordeath",
+                title: "Who helped to start the boycott of the Mentgomery bus system by refusing to give up her seat on a segregated bus?",
+                choicesOrder: "random",
+                choices: [
+                    "Phyllis Wheatley", "Mary Mclead Bethune", "Rosa Parks", "Shirley Chisholm"
+                ],
+                correctAnswer: "Rosa Parks"
+
+
+
+            },
+            {
+                type: "radiogroup",
                 name: "magnacarta",
                 title: "What is the Magna Carta?",
                 choicesOrder: "random",
